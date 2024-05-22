@@ -1,0 +1,15 @@
+# Archivos específicos de Python
+*.pyc
+*.pyo
+__pycache__
+
+# Directorio del entorno virtual de Python
+venv/
+
+# Archivos específicos de tu editor (por ejemplo, para VSCode)
+.vscode/
+
+# Dependencias de Node.js (Node modules)
+node_modules/
+
+# Otros archivos y directorios que desees ignorar
